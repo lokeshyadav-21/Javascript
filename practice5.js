@@ -1,0 +1,1 @@
+console.log('Max Soectre Payne'.split(" "));
